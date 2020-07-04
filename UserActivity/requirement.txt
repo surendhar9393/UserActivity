@@ -1,0 +1,4 @@
+django
+django-rest_framework
+djangorestframework-jwt
+django-timezone-field
